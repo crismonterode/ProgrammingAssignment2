@@ -1,3 +1,4 @@
+##Asigment 2 coursera
 
 ##makeCacheMatrix will create a matrix, then its inverse, and it will cache its inverse value.
 
@@ -19,7 +20,6 @@ makeCacheMatrix <- function(x = matrix()) {
          setinverse = setinverse,
          getinverse = getinverse)
 }
-
 
 
 ##cacheSolve computes the inverse of the matrix obtained by the previous function (makeCacheMatrix). 
